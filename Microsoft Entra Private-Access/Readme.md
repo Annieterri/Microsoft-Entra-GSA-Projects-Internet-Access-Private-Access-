@@ -179,7 +179,7 @@ Look for:
 
 ---
 
-# **Architecture Diagram (Add to GitHub)**
+# **Architecture Diagram**
 
 ```
 User Device → GSA Client  
