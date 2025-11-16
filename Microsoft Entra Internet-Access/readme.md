@@ -128,17 +128,13 @@ Check for:
 
 ---
 
-# **Architecture Diagram (Add to GitHub)**
-
-Include a diagram like this:
+# **Architecture Diagram**
 
 ```
 User Device → GSA Client → Traffic Forwarding → Entra Internet Access  
 → Web Filtering Policy → Internet  
 → Logs → Sentinel / Unified Access Logs
 ```
-
-I can generate a **Mermaid diagram** for you if you want.
 
 ---
 
